@@ -49,4 +49,4 @@ This project is a responsive website showcasing modern drone technology, designe
 Maheen Arif
 
 ## License
-Copyright © 2023 Maheen Arif. All rights reserved.
+Copyright © 2025 Maheen Arif. All rights reserved.
